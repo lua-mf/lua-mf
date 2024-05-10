@@ -1,4 +1,4 @@
-## Hello!!, I´m Luana
+# Hello, I´m Luana!!
 
 - 🔭 I’m currently working on projects in Django and a game whith C language
 - 🌱 I’m currently learning C, Django, javaScript, Azure and Cypress
