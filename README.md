@@ -1,13 +1,11 @@
-# Hello, I´m Luana!!
+# Oi! Eu sou a Luana 👋
+Estudante de **Ciência da Computação** — atualmente no **5º período** e em **intercâmbio em Portugal** na Universidade do Algarve.  
 
-I'm a developer in constant learning, always looking to improve my skills and learn new technologies. 
+🎯 **Objetivo:** usar a tecnologia para criar soluções inovadoras que resolvam problemas reais e gerem impacto positivo na sociedade.  
 
-🎯 My goal is to use technology to create innovative solutions that solve real problems and have a positive impact on society.
-##
-- 🔭 I’m currently working on projects in the health area
+🛠️ Tecnologias e Ferramentas
+- **Linguagens:** Python, Java, C, HTML, CSS, JavaScript  
+- **Frameworks/Bibliotecas:** Django, Cypress, JUnit  
+- **Outros:** Git, Metodologias Ágeis, Desenvolvimento Web e Orientado a Objetos  
 
-- 🌱 I’m currently learning Java and javaScript
-  
-- 🌳 I already know Python, C, Arduino IDE, HTML and CSS
-
-- 📫 How to reach me: www.linkedin.com/in/luana-falcão-4aab15258
+📫 **Saiba mais:** [LinkedIn](https://www.linkedin.com/in/luana-falcão-4aab15258)
